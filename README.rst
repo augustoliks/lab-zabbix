@@ -20,4 +20,5 @@ References
 ----------
 
 - Zabbix 4.2 — Prometheus Integration:
+
   - link: https://blog.zabbix.com/zabbix-4-2-prometheus-integration/7558/
