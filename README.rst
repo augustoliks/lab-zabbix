@@ -8,6 +8,8 @@ How to run
 
 .. code:: shell
 
+    git clone https://github.com/augustoliks/zabbix-lld-prometheus
+    cd zabbix-lld-prometheus/zabbix/
     docker-compose pull
     docker-compose up -d 
 
