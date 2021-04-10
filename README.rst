@@ -16,7 +16,6 @@ Zabbix credentials:
 - user: ``Admin``
 - password: ``zabbix``
 
-
 References
 ----------
 
