@@ -1,4 +1,7 @@
-# zabbix-lld-prometheus
+zabbix-lld-prometheus
+=====================
+
+- **Educational purposes**
 
 How to run
 ----------
