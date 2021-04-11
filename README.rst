@@ -101,8 +101,10 @@ Visualize os Itens Criados
 
 Se tudo funcionar de forma correta, ao acessar a opção *Latest Data* do Host criado, será acessível os itens criados via LLD.
 
-.. image:: .doc/11-item-prototype-finished.jpg
-   :target: .doc/11-item-prototype-finished.jpg
+.. image:: .doc/12-last-data.jpg
+   :target: .doc/12-last-data.jpg
+
+Segue a consulta por histórico.
 
 .. image:: .doc/13-historical.jpg
    :target: .doc/13-historical.jpg
