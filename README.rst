@@ -1,7 +1,7 @@
 zabbix-lld-prometheus
 =====================
 
-Criação de itens no Zabbix, de forma dinâmica atráves do recurso *Discovery Rule*, com base em *scraps* em tempos regulares, feitos com  *Prometheus Exporter*.
+Criação de itens no Zabbix, de forma dinâmica atráves do recurso *Discovery Rule*, com base em *scraps* em tempos regulares, feitos en um *Prometheus Exporter*.
 
     Repositório criado para propósitos educacionais.
 
