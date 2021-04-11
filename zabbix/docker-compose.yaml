@@ -112,6 +112,15 @@ services:
    com.zabbix.component: "zabbix-agentd"
    com.zabbix.os: "centos"
 
+ #  http://127.0.0.1:9100/metrics
+ node-exporter:
+  image: prom/node-exporter
+  container_name: node-exporter
+  networks:
+   - zbx_net_backend
+  ports:
+   - 9100:9100
+
  postgres-server:
   image: postgres:11
   container_name: postgres-server 
